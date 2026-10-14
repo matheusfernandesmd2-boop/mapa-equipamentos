@@ -1,0 +1,7 @@
+Projeto Android Studio - Mapa de Equipamentos
+
+Abra a pasta no Android Studio e sincronize o Gradle. Depois use Build > Build APK(s).
+
+O HTML inicia sem equipamentos pré-carregados; a importação KML permanece no botão de pasta. O aplicativo salva uma cópia do último KML no armazenamento interno e tenta restaurá-la ao abrir. O mapa de fundo usa OpenStreetMap pela internet; a área inicial está centrada em Minas Gerais.
+
+Observação: este ambiente não possui Android SDK/Gradle instalado, então este pacote contém o projeto-fonte, não um APK já compilado.
